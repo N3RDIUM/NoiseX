@@ -1,4 +1,4 @@
-from simplex_noise import *
+from .simplex_noise import *
 import random
 import math
 
